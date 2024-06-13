@@ -1,0 +1,5 @@
+﻿@using AdminLTEThemePrac._AdminLTETheme.libs
+@inject IAdminLTETheme admin;
+@{
+    Layout = admin.GetView("Default.cshtml");
+}

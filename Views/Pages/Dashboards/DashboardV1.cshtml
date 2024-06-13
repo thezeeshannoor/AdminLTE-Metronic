@@ -1,0 +1,50 @@
+﻿@{
+    ViewData["Title"] = "DashboardV1";
+}
+
+    <!-- Content Header (Page header) -->
+    <div class="content-header">
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-sm-6">
+                    <h1 class="m-0">Dashboard V1</h1>
+                </div><!-- /.col -->
+                @Html.Partial("~/Views/Partials/DashboardV1/_BreadCrumb.cshtml")
+            </div><!-- /.row -->
+        </div><!-- /.container-fluid -->
+    </div>
+
+
+    
+    <section class="content">
+        <div class="container-fluid">
+            <!-- Small Cards (Stat Cards) -->
+            <div class="row">
+                @Html.Partial("~/Views/Partials/DashboardV1/Cards/_NewOrders.cshtml")
+                @Html.Partial("~/Views/Partials/DashboardV1/Cards/_BounceRate.cshtml")
+                @Html.Partial("~/Views/Partials/DashboardV1/Cards/_UserRegisteration.cshtml")
+                @Html.Partial("~/Views/Partials/DashboardV1/Cards/_UniqueVisitors.cshtml")
+
+            </div>
+
+
+   <div class="row">
+    <!-- Left col -->
+    <section class="col-lg-7 connectedSortable">
+        @Html.Partial("~/Views/Layout/AdminLTE/Partials/Charts/_SalesChart.cshtml")
+        @Html.Partial("~/Views/Layout/AdminLTE/Partials/_DirectChat.cshtml")
+        @Html.Partial("~/Views/Layout/AdminLTE/Partials/_TodoList.cshtml")
+    </section>
+
+    <!-- right col (We are only adding the ID to make the widgets sortable)-->
+    <section class="col-lg-5 connectedSortable">
+        @Html.Partial("~/Views/Layout/AdminLTE/Partials/Graphs/_VisitorsMap.cshtml")
+        @Html.Partial("~/Views/Layout/AdminLTE/Partials/Graphs/_Sales.cshtml")
+        @Html.Partial("~/Views/Layout/AdminLTE/Partials/_Calendar.cshtml")
+    </section>
+   </div>
+    </div>
+</section>
+
+
+

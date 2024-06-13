@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\c#work\\AdminLTEThemePrac\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59750C2A-52AB-485F-A441-4D9410FD4351}|AdminLTEThemePrac.csproj|f:\\c#work\\adminltethemeprac\\_adminltetheme\\libs\\adminltethemebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59750C2A-52AB-485F-A441-4D9410FD4351}|AdminLTEThemePrac.csproj|solutionrelative:_adminltetheme\\libs\\adminltethemebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59750C2A-52AB-485F-A441-4D9410FD4351}|AdminLTEThemePrac.csproj|f:\\c#work\\adminltethemeprac\\_adminltetheme\\libs\\adminltethemesetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59750C2A-52AB-485F-A441-4D9410FD4351}|AdminLTEThemePrac.csproj|solutionrelative:_adminltetheme\\libs\\adminltethemesetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59750C2A-52AB-485F-A441-4D9410FD4351}|AdminLTEThemePrac.csproj|f:\\c#work\\adminltethemeprac\\_adminltetheme\\libs\\iadminltetheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59750C2A-52AB-485F-A441-4D9410FD4351}|AdminLTEThemePrac.csproj|solutionrelative:_adminltetheme\\libs\\iadminltetheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59750C2A-52AB-485F-A441-4D9410FD4351}|AdminLTEThemePrac.csproj|f:\\c#work\\adminltethemeprac\\_adminltetheme\\libs\\adminltetheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59750C2A-52AB-485F-A441-4D9410FD4351}|AdminLTEThemePrac.csproj|solutionrelative:_adminltetheme\\libs\\adminltetheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59750C2A-52AB-485F-A441-4D9410FD4351}|AdminLTEThemePrac.csproj|f:\\c#work\\adminltethemeprac\\_adminltetheme\\config\\themesettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{59750C2A-52AB-485F-A441-4D9410FD4351}|AdminLTEThemePrac.csproj|solutionrelative:_adminltetheme\\config\\themesettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59750C2A-52AB-485F-A441-4D9410FD4351}|AdminLTEThemePrac.csproj|f:\\c#work\\adminltethemeprac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59750C2A-52AB-485F-A441-4D9410FD4351}|AdminLTEThemePrac.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59750C2A-52AB-485F-A441-4D9410FD4351}|AdminLTEThemePrac.csproj|f:\\c#work\\adminltethemeprac\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59750C2A-52AB-485F-A441-4D9410FD4351}|AdminLTEThemePrac.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59750C2A-52AB-485F-A441-4D9410FD4351}|AdminLTEThemePrac.csproj|f:\\c#work\\adminltethemeprac\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59750C2A-52AB-485F-A441-4D9410FD4351}|AdminLTEThemePrac.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "F:\\c#work\\AdminLTEThemePrac\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "F:\\c#work\\AdminLTEThemePrac\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T12:24:25.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\c#work\\AdminLTEThemePrac\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\c#work\\AdminLTEThemePrac\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:23:35.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\c#work\\AdminLTEThemePrac\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "F:\\c#work\\AdminLTEThemePrac\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:22:11.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminLTEThemeSetting.cs",
+              "DocumentMoniker": "F:\\c#work\\AdminLTEThemePrac\\_AdminLTETheme\\libs\\AdminLTEThemeSetting.cs",
+              "RelativeDocumentMoniker": "_AdminLTETheme\\libs\\AdminLTEThemeSetting.cs",
+              "ToolTip": "F:\\c#work\\AdminLTEThemePrac\\_AdminLTETheme\\libs\\AdminLTEThemeSetting.cs",
+              "RelativeToolTip": "_AdminLTETheme\\libs\\AdminLTEThemeSetting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:16:21.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminLTETheme.cs",
+              "DocumentMoniker": "F:\\c#work\\AdminLTEThemePrac\\_AdminLTETheme\\libs\\AdminLTETheme.cs",
+              "RelativeDocumentMoniker": "_AdminLTETheme\\libs\\AdminLTETheme.cs",
+              "ToolTip": "F:\\c#work\\AdminLTEThemePrac\\_AdminLTETheme\\libs\\AdminLTETheme.cs",
+              "RelativeToolTip": "_AdminLTETheme\\libs\\AdminLTETheme.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:16:05.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAdminLTETheme.cs",
+              "DocumentMoniker": "F:\\c#work\\AdminLTEThemePrac\\_AdminLTETheme\\libs\\IAdminLTETheme.cs",
+              "RelativeDocumentMoniker": "_AdminLTETheme\\libs\\IAdminLTETheme.cs",
+              "ToolTip": "F:\\c#work\\AdminLTEThemePrac\\_AdminLTETheme\\libs\\IAdminLTETheme.cs",
+              "RelativeToolTip": "_AdminLTETheme\\libs\\IAdminLTETheme.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:15:57.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminLTEThemeBase.cs",
+              "DocumentMoniker": "F:\\c#work\\AdminLTEThemePrac\\_AdminLTETheme\\libs\\AdminLTEThemeBase.cs",
+              "RelativeDocumentMoniker": "_AdminLTETheme\\libs\\AdminLTEThemeBase.cs",
+              "ToolTip": "F:\\c#work\\AdminLTEThemePrac\\_AdminLTETheme\\libs\\AdminLTEThemeBase.cs",
+              "RelativeToolTip": "_AdminLTETheme\\libs\\AdminLTEThemeBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:11:46.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "themesettings.json",
+              "DocumentMoniker": "F:\\c#work\\AdminLTEThemePrac\\_AdminLTETheme\\config\\themesettings.json",
+              "RelativeDocumentMoniker": "_AdminLTETheme\\config\\themesettings.json",
+              "ToolTip": "F:\\c#work\\AdminLTEThemePrac\\_AdminLTETheme\\config\\themesettings.json",
+              "RelativeToolTip": "_AdminLTETheme\\config\\themesettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-13T12:11:35.863Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

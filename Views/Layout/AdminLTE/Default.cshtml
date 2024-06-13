@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AdminLTE 3 | Dashboard</title>
+    @Html.Partial("~/Views/Layout/AdminLTE/Partials/_CssAndFonts.cshtml")
+</head>
+<body class="hold-transition sidebar-mini layout-fixed">
+<div class="wrapper">
+  @Html.Partial("~/Views/Layout/AdminLTE/Partials/_Preloader.cshtml")
+  @Html.Partial("~/Views/Layout/AdminLTE/Partials/_Navbar.cshtml")
+  @Html.Partial("~/Views/Layout/AdminLTE/Partials/_Sidebar.cshtml")
+
+  <div class="content-wrapper">
+       @RenderBody()
+  </div>
+       
+ @Html.Partial("~/Views/Layout/AdminLTE/Partials/_Footer.cshtml")
+ @Html.Partial("~/Views/Layout/AdminLTE/Partials/_ControlSidebar.cshtml")
+
+  <!-- Scripts -->
+ @Html.Partial("~/Views/Layout/AdminLTE/Partials/_Scripts.cshtml")
+ @await RenderSectionAsync("Scripts",required:false)
+</body>
+</html>
